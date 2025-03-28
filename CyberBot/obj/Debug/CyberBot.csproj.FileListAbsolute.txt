@@ -1,0 +1,7 @@
+C:\Users\bokga\OneDrive\Desktop\C#\CyberBot\CyberBot\bin\Debug\CyberBot.exe.config
+C:\Users\bokga\OneDrive\Desktop\C#\CyberBot\CyberBot\bin\Debug\CyberBot.exe
+C:\Users\bokga\OneDrive\Desktop\C#\CyberBot\CyberBot\bin\Debug\CyberBot.pdb
+C:\Users\bokga\OneDrive\Desktop\C#\CyberBot\CyberBot\obj\Debug\CyberBot.csproj.AssemblyReference.cache
+C:\Users\bokga\OneDrive\Desktop\C#\CyberBot\CyberBot\obj\Debug\CyberBot.csproj.CoreCompileInputs.cache
+C:\Users\bokga\OneDrive\Desktop\C#\CyberBot\CyberBot\obj\Debug\CyberBot.exe
+C:\Users\bokga\OneDrive\Desktop\C#\CyberBot\CyberBot\obj\Debug\CyberBot.pdb
